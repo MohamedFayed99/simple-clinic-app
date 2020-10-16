@@ -1,6 +1,6 @@
 # clinicapp
 
-A new Flutter application.
+flutter simple clinic app ui 
 
 ## Getting Started
 
