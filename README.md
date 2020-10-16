@@ -1,6 +1,6 @@
 # clinicapp
 
-flutter simple clinic app ui 
+Flutter simple clinic app UI 
 
 ## Getting Started
 
